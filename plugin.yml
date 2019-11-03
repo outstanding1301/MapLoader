@@ -1,0 +1,15 @@
+name: YMap
+version: 1.0.0
+description: 맵 플러그인 (제작:염료)
+author: yeomryo@naver.com
+website: https://www.youtube.com/yeomryo
+main: com.yeomryo.map.Map
+commands:
+  맵:
+      description: 맵 플러그인 명령어 by 염료
+      permission: 
+      usage: /<command>
+  ymap:
+      description: 맵 플러그인 명령어 by 염료
+      permission: 
+      usage: /<command>
